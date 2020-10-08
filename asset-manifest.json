@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/covid-reactjs/static/css/main.76438b36.chunk.css",
+    "main.js": "/covid-reactjs/static/js/main.7982cfce.chunk.js",
+    "main.js.map": "/covid-reactjs/static/js/main.7982cfce.chunk.js.map",
+    "runtime-main.js": "/covid-reactjs/static/js/runtime-main.9f1c761d.js",
+    "runtime-main.js.map": "/covid-reactjs/static/js/runtime-main.9f1c761d.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/covid-reactjs/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ec4022d6.chunk.js": "/covid-reactjs/static/js/2.ec4022d6.chunk.js",
+    "static/js/2.ec4022d6.chunk.js.map": "/covid-reactjs/static/js/2.ec4022d6.chunk.js.map",
+    "index.html": "/covid-reactjs/index.html",
+    "precache-manifest.abf2a56cb7398d75590354712a4ff35e.js": "/covid-reactjs/precache-manifest.abf2a56cb7398d75590354712a4ff35e.js",
+    "service-worker.js": "/covid-reactjs/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/covid-reactjs/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.76438b36.chunk.css.map": "/covid-reactjs/static/css/main.76438b36.chunk.css.map",
+    "static/js/2.ec4022d6.chunk.js.LICENSE.txt": "/covid-reactjs/static/js/2.ec4022d6.chunk.js.LICENSE.txt",
+    "static/media/img-banner-1.jpg": "/covid-reactjs/static/media/img-banner-1.24ac07fb.jpg",
+    "static/media/img-banner-2.jpg": "/covid-reactjs/static/media/img-banner-2.d2959e43.jpg",
+    "static/media/img-banner-3.jpg": "/covid-reactjs/static/media/img-banner-3.1de4eb55.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f1c761d.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ec4022d6.chunk.js",
+    "static/css/main.76438b36.chunk.css",
+    "static/js/main.7982cfce.chunk.js"
+  ]
+}
